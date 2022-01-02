@@ -1,7 +1,7 @@
 # Prácticas en el lenguaje de bajo nivel (ensamblador)
 ```json
-"Autor": {
-  "nombre": "Fuhrerh-Lemon",
+"proyecto": {
+  "autor": "Fuhrerh-Lemon",
   "problemas": [
     "arit.asm",
     "arreglo_metodo_sort.asm",
